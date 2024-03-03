@@ -1,5 +1,5 @@
 let speech = new SpeechSynthesisUtterance();
-let speakButton = document.querySelector('button');
+
 let voices = [];
 
 let voiceSelect = document.querySelector("select");
